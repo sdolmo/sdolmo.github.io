@@ -1,0 +1,118 @@
+body {
+	font-family: comic; 
+	color: #F3A4D6;
+	margin: 0
+}
+
+header {
+	background: purple;
+	text-align: center;
+	color: red;
+	background:url(../images/background.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+a{ 
+	color: #A4F3C1;
+}
+
+#about {
+	background: orange;
+	color: red;
+	padding-left: 50px
+}
+
+img{
+	border: solid 3px black;
+}
+
+header img{
+	border: 10px orange dotted;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 30px;
+	color: green;
+	margin: 20px 0;
+}
+
+.links h2 {
+	color: #000000
+}
+
+.padded {
+	padding: 20px 
+}
+
+.contact {
+	text-align: center;
+	background:url(../images/dark_embroidery.png);
+}
+
+.contact h2 {
+	color: #ffffff;
+}
+
+.contact img {
+	border: none;
+	width: 50px;
+	height: auto;
+	margin: 10px;
+	border-radius: 50%
+}
+
+.contact img:hover {
+	opacity: .8;
+	border-radius: 40%
+}
+
+.websites {
+	padding: 0;
+}
+
+.websites li {
+	list-style: none;
+	display: inline-block;
+	margin-bottom: 40px;
+}
+
+.websites a {
+	background: blue;
+	color: #ffffff;
+	text-decoration: none;
+	padding: 10px 20px;
+	border-radius: 40px;
+	font-size: 30px
+}
+
+.websites a:hover {
+	background: purple;
+	border: 50px
+}
+
+h1, h2 {
+	font-family: 'Lobster Two', cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
